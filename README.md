@@ -1,8 +1,7 @@
 CHAOSS United Nations Sustainable Development Goals (UN SDG) Working Group
 =======================
 
-# wg-un-sdg
-UN-SDG working group aims to empower open source communities with metrics to align their contributions with the UN's Sustainable Development Goals (SDGs) and enhance the role of open source in achieving global sustainability.
+UN-SDG working group (wg-un-sdg) aims to empower open source communities with metrics to align their contributions with the UN's Sustainable Development Goals (SDGs) and enhance the role of open source in achieving global sustainability.
 
 # Participate
 The UN-SDG working group meets every other Wednesday at 10:00am US Central / 3:00pm UTC / 5:00 pm Central Europe Time via [Zoom](https://zoom.us/my/chaoss)
