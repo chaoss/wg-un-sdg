@@ -21,6 +21,7 @@ This project is open to anyone interested in helping to define how to measure if
 Maintainers
  - [Dawn Foster](https://github.com/geekygirldawn)
  - [David Lippert](https://github.com/david-lippert)
+ - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 
 Contibutors
 
